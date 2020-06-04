@@ -1,0 +1,279 @@
+body {
+
+    margin: 0px;
+}
+
+.navigation-bar {
+
+    height: 150px;
+    display: block;
+    background-color: #c3edea;
+
+}
+
+
+
+.profile {
+    width: 100px;
+    height: 90px;
+    padding-top: 15px;
+    position: relative;
+    left: 100px;
+}
+
+.nav-click {
+    display: inline;
+    color: #007892;
+    text-decoration: none;
+    font-size: x-large;
+    position: relative;
+    left: 70%;
+    bottom: 50px;
+    padding-right: 20px;
+    padding-left :20px;
+}
+
+.nav-click:hover {
+    background-color: #35d0ba;
+    cursor: pointer;
+    transition: all 0.5s;
+  }
+/* ------------------------------top div---------------------------- */
+.top {
+    display: inline-block;
+    position: relative;
+    background-color: #c3edea;
+    width: 100%;
+    height: 575px;
+
+
+}
+
+.cloud1 {
+    position: relative;
+    width: 300px;
+    height: 220px;
+    left: 100px;
+    top: 40px;
+}
+
+.sun {
+
+    width: 500px;
+    height: 450px;
+    position: relative;
+    left: 450px;
+    bottom: 140px;
+}
+
+.cloud2 {
+    position: relative;
+    width: 300px;
+    height: 220px;
+    left: 250px;
+    bottom: 90px;
+}
+
+.neonname {
+    width: 500px;
+    position: relative;
+    left: 170px;
+    bottom: 60px;
+}
+
+.introduction {
+    position: relative;
+    left: 580px;
+    bottom: 50px;
+}
+
+hr {
+
+    border-style: none;
+    border-top-style: dotted;
+    color: gray;
+    border-width: 10px;
+    width: 15%;
+    border-color: gray;
+    position: relative;
+    right: 45px;
+    bottom: 180px;
+}
+/* ----------------------------mid div---------------------------- */
+.mid {
+    position: relative;
+    width: 100%;
+}
+
+.profiletop {
+    width: 180px;
+    height: 170px;
+    position: relative;
+    left: 630px;
+    bottom: 200px;
+}
+
+.title {
+    display: inline-block;
+    color: #007892;
+    font-size: xx-large;
+    position: relative;
+    left: 705px;
+    bottom: 210px;
+}
+
+.description {
+    display: inline-block;
+    color: #565d47;
+    font-size: x-large;
+    position: relative;
+    left: 350px;
+    bottom: 230px;
+
+}
+
+.quality {
+    display: inline-block;
+    color: #007892;
+    font-size: xx-large;
+    position: relative;
+    left: 625px;
+    bottom: 150px;
+
+}
+
+.profiletop1 {
+    width: 180px;
+    height: 170px;
+    position: relative;
+    left: 330px;
+    bottom: 150px;
+}
+
+.title1 {
+    display: inline-block;
+    color: #007892;
+    font-size: xx-large;
+    position: relative;
+    left: 485px;
+    bottom: 280px;
+}
+
+.description1 {
+    display: inline-block;
+    color: #565d47;
+    font-size: x-large;
+    position: relative;
+    left: 383px;
+    bottom: 290px;
+
+}
+
+.title2 {
+    display: inline-block;
+    color: #007892;
+    font-size: xx-large;
+    position: relative;
+    left: 355px;
+    bottom: 320px;
+}
+
+.description2 {
+    display: inline-block;
+    color: #565d47;
+    font-size: x-large;
+    position: relative;
+    right: 185px;
+    bottom: 180px;
+
+}
+
+.profiletop2 {
+    width: 180px;
+    height: 170px;
+    position: relative;
+    right: 100px;
+    bottom: 200px;
+}
+
+.quality2 {
+    display: inline-block;
+    color: #007892;
+    font-size: xx-large;
+    position: relative;
+    left: 655px;
+    bottom: 150px;
+
+}
+
+.title3{
+    display: inline-block;
+    color:#007892 ;
+    position: relative;
+    left: 360px;
+    bottom: 85px;
+
+}
+
+.description3 {
+    display: inline-block;
+    color: #565d47;
+    font-size: x-large;
+    position: relative;
+    left: 170px;
+    bottom: 85px;
+
+}
+
+.message{
+    color:#c3edea ;
+    background: #007892;
+    position: relative;
+    right: 400px;
+    bottom: 35px;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 16px;
+    text-align: center;
+    padding: 15px 30px 15px 30px;
+    text-decoration: none;
+    margin: 24px 0 0;
+    border-radius: 3px;
+    border: 0;
+    text-transform: uppercase;
+}
+
+.far{
+    padding-right: 9px;
+}
+/* ------------------------------Foot div----------------------------------------- */
+.foot {
+    display: block;
+    background-color: #c3edea;
+    position: relative;
+    height: 180px;
+}
+
+.socialmedia {
+    position: relative;
+    right: 45px;
+    top: 50px;
+    color: #007892;
+    text-decoration: none;
+    padding: 20px;
+    padding-bottom: 30px;
+    font-size: larger;
+}
+.socialmedia1 {
+    position: relative;
+    right: 45px;
+    top: 60px;
+    color: #007892;
+    text-decoration: none;
+    padding: 20px;
+    padding-bottom: 30px;
+    font-size: larger;
+}
+
+
+
+
