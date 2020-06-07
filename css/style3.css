@@ -1,0 +1,135 @@
+body {
+    background-color: #c3edea;
+    margin: 0px;
+    
+}
+
+.navigation-bar {
+
+    height: 150px;
+    display: block;
+    background-color: #c3edea;
+
+}
+
+
+
+.profile {
+    width: 100px;
+    height: 90px;
+    padding-top: 15px;
+    position: relative;
+    left: 100px;
+}
+
+.nav-click {
+    display: inline;
+    color: #007892;
+    text-decoration: none;
+    font-size: x-large;
+    position: relative;
+    left: 65%;
+    bottom: 50px;
+    padding-right: 20px;
+    padding-left :20px;
+}
+
+.nav-click:hover {
+    background-color: #35d0ba;
+    cursor: pointer;
+    transition: all 0.5s;
+  }
+/* --------------------div-------------------- */
+  .contact1{
+      display: inline-block;
+      background-color: #c3edea;
+      position: relative;
+      left: 30%;
+  }
+
+  .textbox1{
+      
+    font-family: 'Cormorant Garamond', serif;
+      position: relative;
+      margin-left: 43px;
+
+  }
+
+  .textbox2{
+      
+    font-family: 'Cormorant Garamond', serif;
+      position: relative;
+      margin-left: 50px;
+
+  }
+
+  .textbox{
+      
+    font-family: 'Cormorant Garamond', serif;
+      position: relative;
+
+  }
+
+
+  .label{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 30px;
+  }
+
+
+  /* ----------------div foot------------------ */
+
+  .footup{
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+.message{
+    color:#c3edea ;
+    background: #007892;
+    position: relative;
+    right: 8px;
+    bottom: 20px;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 16px;
+    text-align: center;
+    padding: 15px 30px 15px 30px;
+    text-decoration: none;
+    margin: 24px 0 0;
+    border-radius: 3px;
+    border: 0;
+    text-transform: uppercase;
+}
+
+.far{
+    padding-right: 9px;
+}
+/* ------------------------------Foot div----------------------------------------- */
+.foot {
+    display: block;
+    background-color: #c3edea;
+    position: relative;
+    height: 180px;
+}
+
+.socialmedia {
+    position: relative;
+    right: 10px;
+    top: 50px;
+    color: #007892;
+    text-decoration: none;
+    padding: 20px;
+    padding-bottom: 30px;
+    font-size: larger;
+}
+.socialmedia1 {
+    position: relative;
+    right: 0px;
+    top: 60px;
+    color: #007892;
+    text-decoration: none;
+    padding: 20px;
+    padding-bottom: 30px;
+    font-size: larger;
+}
+

@@ -27,7 +27,7 @@ body {
     text-decoration: none;
     font-size: x-large;
     position: relative;
-    left: 70%;
+    left: 65%;
     bottom: 50px;
     padding-right: 20px;
     padding-left :20px;
@@ -275,14 +275,18 @@ body {
 }
 
 
-
-
+/* ------------------------------Foot div 1----------------------------------------- */
+.footup{
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
 .message{
     color:#c3edea ;
     background: #007892;
     position: relative;
-    right: 420px;
-    top: 220px;
+    left: 8px;
+    bottom: 50px;
     font-family: 'Cormorant Garamond', serif;
     font-size: 16px;
     text-align: center;
@@ -293,6 +297,7 @@ body {
     border: 0;
     text-transform: uppercase;
 }
+
 
 .far{
     padding-right: 9px;
